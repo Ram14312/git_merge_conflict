@@ -1,4 +1,4 @@
 def create_merge_conflict():
     staement1 = "the merge conflict is not yet done"
-    statement2 = "the merge conflict is done by whom"
+    statement2 = "the merge conflict is created by ram2"
     return "resolved conflict"
